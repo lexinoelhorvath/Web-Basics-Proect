@@ -1,0 +1,7 @@
+body{background-color: black;
+    color: white;
+    font-family: 'LILY UPC', sans-serif;}
+p{text-align: center;}
+h1{font-weight: 700;}
+h2{font-weight: 600;}
+ul li {list-style: square;}
