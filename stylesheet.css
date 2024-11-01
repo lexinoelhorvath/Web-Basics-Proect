@@ -1,0 +1,13 @@
+body{background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;}
+	p{text-align: center;}
+	h1{font-weight: 700;}
+	h2{font-weight: 600;}
+	.topnav {display: flex; justify-content: center;}
+	.image {justify-content: center; display: block; margin-left: auto; margin-right: auto}
+	ul li {list-style: none; display: inline-block; margin-right: 25px;}
+	ol {list-style-position: inside; text-align: center; padding: 5px; margin: 10px;}
+#main{padding-left: 50px; padding-right: 50px; text-align: center; background-color: black; color: white;}
+#footer{width: 100%; text-align: center; color: blue; border-radius: 10px; background-color: black;}
+table{color: black}
